@@ -1,0 +1,22 @@
+{
+  "wheel_id": 427,
+  "structure": "umbrella",
+  "slug": "retainingwallpros-com-102",
+  "project": "retaining-wall-quotes-brisbane-suburb-guide-462ab721572a25eca0e",
+  "parent_t1_ref": "retainingwallpros-com-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallpros.com.au",
+  "primary_kw": "retaining wall quotes brisbane suburb guide",
+  "intended_url": "https://sitesau.github.io/retainingwallpros-com-102/",
+  "tier": "T2",
+  "writeback_nonce": "7fde13236cf346e9",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-quotes-brisbane-c09084d5d3e0543420ba7ad590322451/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
